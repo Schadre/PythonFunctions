@@ -4,6 +4,10 @@ Welcome to the Python Functions!
 
 ## 📂 Folder Structure
 
+- **Module 2 - Lesson 5 - Assignments - Python Functions**
+  - `TheCalculatorApp.py`
+  - `TheShoppingListMaker.py`
+
 - **Module 2 - Lesson 5 - Exercises - Python Functions**
   - `1-TheUsernameValidator.py`
   - `2-ThePrecisePriceTagger.py`
